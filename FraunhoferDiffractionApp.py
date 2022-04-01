@@ -1,3 +1,12 @@
+"""
+作者：202128013920003 刘夕铭
+机构：中国科学院长春光学精密机械与物理研究所
+功能：演示菲涅尔衍射的演化
+版本：Version 4
+最后更改时间：2022.03.29@14.19
+参考：《Understanding Optics with Python》 Vasudevan Lakshminarayanand等著，夫琅禾费衍射的UI设计
+"""
+
 from PyQt5.QtWidgets import QApplication, QMainWindow
 # QApplication 包含窗口系统和其他来源处理过和发送过的主事件循环，也处理应用程序初始化和收尾。管理对话
 # QMainWindow  QMainWindow()可以创建一个应用程序的窗口。MainWindow的结构分为五个部分：菜单栏（Menu Bar）工具栏（Toolbars）、
