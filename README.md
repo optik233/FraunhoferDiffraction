@@ -1,0 +1,2 @@
+# FraunhoferDiffractionApp
+用PyQt5建立一个UI界面，进行夫琅禾费衍射的演示
